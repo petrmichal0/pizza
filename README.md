@@ -7,7 +7,7 @@ Pizza is a web application designed to manage a pizza restaurant's menu, orders,
 ![Static Badge](https://img.shields.io/badge/status-online-brightgreen)
 
 ## Quick Look
-<img src="https://github.com/user-attachments/assets/478544d2-9be4-4121-af72-09f896c1cb7f" width="700" alt="Pizza App Demo">
+<img src="https://github.com/user-attachments/assets/89d73842-7bc6-4149-88ce-006fe39e309d" width="700" alt="Pizza App Demo">
 
 ## Table of Content
 - [Project Title and Description](#project-title-and-description)
@@ -62,20 +62,34 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
 
 ## Screenshots
 
+<div style="overflow-x: scroll;">
 <table>
   <tr>
     <th>Homepage</th>
-    <th>Order Management</th>
+    <th>Ordering Pizza</th>
+    <th>Order Cart</th>
+    <th>Add Information / Order Confirmation</th>
+    <th>Order finish list</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/2af0a439-f8aa-4890-bf83-0407d1a0d018" width="300" height="300" alt="Homepage">
+      <img src="https://github.com/user-attachments/assets/4eed151e-d458-4092-a0b8-29898399ca0f" width="300" height="300" alt="Homepage">
     </td>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/745a3558-32dd-400a-8c65-b5e7c01a12f4" width="300" height="300" alt="Order Management">
+      <img src="https://github.com/user-attachments/assets/915db2d5-0241-42a5-92ce-705d64b269a0" width="300" height="300" alt="Order Management">
+    </td>
+    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/a2f46a3e-2778-4dd1-9d86-b9c9a07240a6" width="300" height="300" alt="Order Management">
+    </td>
+    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/255e0018-21ae-4182-891d-c548050bbb8e" width="300" height="300" alt="Order Management">
+    </td>
+    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/8dc33712-0f58-4288-8838-322325a71520" width="300" height="300" alt="Order Management">
     </td>
   </tr>
 </table>
+</div>
 
 ## Demo (link)
 
@@ -138,4 +152,27 @@ Pizza/
 └── vite.config.js
 ```
 
+## Technologies Used
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
+[![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
+[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
+[![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)
+
+## Third-Party Libraries
+
+* React Router
+* @reduxjs/toolkit
+* react-redux
+* tailwindcss
+* react-router-dom
+* eslint
+* prettier
+* postcss
+* autoprefixer
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
