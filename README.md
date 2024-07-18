@@ -62,14 +62,11 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
 
 ## Screenshots
 
-<div style="overflow-x: scroll;">
 <table>
   <tr>
     <th>Homepage</th>
     <th>Ordering Pizza</th>
     <th>Order Cart</th>
-    <th>Add Information / Order Confirmation</th>
-    <th>Order finish list</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
@@ -81,6 +78,12 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/a2f46a3e-2778-4dd1-9d86-b9c9a07240a6" width="300" height="300" alt="Order Cart">
     </td>
+  </tr>
+  <tr>
+    <th>Add Information / Order Confirmation</th>
+    <th>Order finish list</th>
+  </tr>
+  <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/255e0018-21ae-4182-891d-c548050bbb8e" width="300" height="300" alt="Add Information / Order Confirmation">
     </td>
@@ -89,7 +92,6 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
     </td>
   </tr>
 </table>
-</div>
 
 ## Demo (link)
 
