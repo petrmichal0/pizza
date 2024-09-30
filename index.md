@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Pizza Documentation"
+title: Pizza Documentation
 ---
 
 # Pizza Documentation
+
 {% include_relative README.md %}
