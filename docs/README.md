@@ -74,7 +74,7 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
     <img src="https://github.com/user-attachments/assets/4eed151e-d458-4092-a0b8-29898399ca0f" width="300" height="300" alt="Homepage">
   </a>
 </td>
-<td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+ <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
   <a href="https://github.com/user-attachments/assets/915db2d5-0241-42a5-92ce-705d64b269a0" target="_blank">
     <img src="https://github.com/user-attachments/assets/915db2d5-0241-42a5-92ce-705d64b269a0" width="300" height="300" alt="Ordering Pizza">
   </a>
