@@ -97,7 +97,7 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
 </td>
 <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
      <a href="https://github.com/user-attachments/assets/8dc33712-0f58-4288-8838-322325a71520" target="_blank">
-      <img src="https://github.com/user-attachments/assets/8dc33712-0f58-4288-8838-322325a71520" style="width: 100%; height: 100%; object-fit: cover;" alt="Order finish list">
+      <img src="https://github.com/user-attachments/assets/8dc33712-0f58-4288-8838-322325a71520" style="object-fit: cover;" alt="Order finish list">
      </a>
 </td>
 
