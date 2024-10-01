@@ -1,4 +1,4 @@
-# Pizza
+# Pizzar
 
 ## Project Title and Description
 Pizza is a web application designed to manage a pizza restaurant's menu, orders, and user information. Users can browse the menu, place orders, and track their orders.
