@@ -68,26 +68,36 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/4eed151e-d458-4092-a0b8-29898399ca0f" width="300" height="300" alt="Homepage">
-    </td>
-    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/915db2d5-0241-42a5-92ce-705d64b269a0" width="300" height="300" alt="Ordering Pizza">
-    </td>
-    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/a2f46a3e-2778-4dd1-9d86-b9c9a07240a6" width="300" height="300" alt="Order Cart">
-    </td>
-  </tr>
-  <tr>
-    <th>Add Information / Order Confirmation</th>
-    <th>Order finish list</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+  <a href="https://github.com/user-attachments/assets/4eed151e-d458-4092-a0b8-29898399ca0f" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4eed151e-d458-4092-a0b8-29898399ca0f" width="300" height="300" alt="Homepage">
+  </a>
+</td>
+<td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+  <a href="https://github.com/user-attachments/assets/915db2d5-0241-42a5-92ce-705d64b269a0" target="_blank">
+    <img src="https://github.com/user-attachments/assets/915db2d5-0241-42a5-92ce-705d64b269a0" width="300" height="300" alt="Ordering Pizza">
+  </a>
+</td>
+<td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+  <a href="https://github.com/user-attachments/assets/a2f46a3e-2778-4dd1-9d86-b9c9a07240a6" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a2f46a3e-2778-4dd1-9d86-b9c9a07240a6" width="300" height="300" alt="Order Cart">
+  </a>
+</td>
+</tr>
+<tr>
+  <th>Add Information / Order Confirmation</th>
+  <th>Order finish list</th>
+</tr>
+<tr>
+  <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+    <a href="https://github.com/user-attachments/assets/255e0018-21ae-4182-891d-c548050bbb8e" target="_blank">
       <img src="https://github.com/user-attachments/assets/255e0018-21ae-4182-891d-c548050bbb8e" width="300" height="300" alt="Add Information / Order Confirmation">
-    </td>
-    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+    </a>
+  </td>
+  <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
+    <a href="https://github.com/user-attachments/assets/8dc33712-0f58-4288-8838-322325a71520" target="_blank">
       <img src="https://github.com/user-attachments/assets/8dc33712-0f58-4288-8838-322325a71520" width="300" height="300" alt="Order finish list">
-    </td>
+    </a>
+  </td>
   </tr>
 </table>
 
